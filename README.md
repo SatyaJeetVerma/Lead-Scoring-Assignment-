@@ -13,4 +13,14 @@ X Education wants to select the most promising leads, i.e. the leads that are mo
 In this case study we are going to use Logistics Regression Model to Predict the probability for the lead, For that we will follow the below steps:
 1) Data Loading
 2) Data Cleaning
-3) Data
+  a) Data Dropping
+  b) Data Imputation
+3) Data Preparation
+  a) Creating Dummies
+  b) Performing train-test split(70,30)
+  c) Perform Scaling
+4) Data Modeling & Evaluation
+  a) Use RFE technique
+  b) P-Value method
+  c) Confusion matrix,Senstivity
+  d) Generate the score Variable
