@@ -15,12 +15,14 @@ In this case study we are going to use Logistics Regression Model to Predict the
 2) Data Cleaning
   a) Data Dropping
   b) Data Imputation
-3) Data Preparation
+3) EDA
+4) Data Preparation
   a) Creating Dummies
   b) Performing train-test split(70,30)
   c) Perform Scaling
-4) Data Modeling & Evaluation
+5) Data Modeling & Evaluation
   a) Use RFE technique
   b) P-Value method
   c) Confusion matrix,Senstivity
   d) Generate the score Variable
+ 6) Conclusion
